@@ -82,21 +82,44 @@ I'm an Aspiring DevOps & Cloud Engineer from 🇮🇳 India, focused on building
 </table>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHANKAR-REGATI&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=SHANKAR-REGATI&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SHANKAR-REGATI&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANKAR-REGATI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SHANKAR-REGATI&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/shankar-regati-319735392
-- Email: reddyshankarnath@gmail.com
 
 ---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHANKAR-REGATI&theme=tokyo-night&hide_border=true&area=true&point=2E9EF7&line=2E9EF7&color=FFFFFF&bg_color=1a1b27" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="www.linkedin.com/in/shankar-regati-319735392">
+    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="reddyshankarnath@gmail.com">
+    <img src="https://img.shields.io/badge/Mail Me-D14836?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+### 💡 "Build. Break. Learn. Improve."
+
+</div>
