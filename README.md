@@ -103,17 +103,10 @@ I'm an Aspiring DevOps & Cloud Engineer from 🇮🇳 India, focused on building
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="www.linkedin.com/in/shankar-regati-319735392">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/shankar-regati-319735392"><img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="reddyshankarnath@gmail.com">
-    <img src="https://img.shields.io/badge/Mail Me-D14836?style=for-the-badge&logoColor=white"/>
-  </a>
+  <a href="mailto:reddyshankarnath@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/Mail Me-D14836?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
