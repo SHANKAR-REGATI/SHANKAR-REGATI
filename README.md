@@ -69,7 +69,6 @@ I'm an Aspiring DevOps & Cloud Engineer from 🇮🇳 India, focused on building
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&fontColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/SHANKAR-REGATI/Ansible-nginx-static-site-deployment-using-Roles">
